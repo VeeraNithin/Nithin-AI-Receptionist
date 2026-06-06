@@ -1,0 +1,4 @@
+flask
+pyTelegramBotAPI
+groq
+requests
